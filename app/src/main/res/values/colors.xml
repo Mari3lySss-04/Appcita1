@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="calendarAccent">#4CAF50</color> <!-- Por ejemplo, verde -->
+    <color name="yellow_primary">#FDD835</color>  <!-- Amarillo brillante -->
+    <color name="yellow_dark">#FBC02D</color>     <!-- Amarillo más intenso -->
+    <color name="yellow_light">#FFF9C4</color>    <!-- Amarillo muy claro -->
+    <color name="yellow_text">#5D4037</color>     <!-- Marrón para contraste -->
+    <color name="yellow_piolin">#FFEB3B</color>
+
+
+
+
+</resources>

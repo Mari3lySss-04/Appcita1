@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Appcita1</string>
+    <string name="hola">Appcita1</string>
+    <string name="Seleccionar">CheckBox</string>
+    <string name="textview">TextView</string>
+
+</resources>
